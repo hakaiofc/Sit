@@ -11,7 +11,7 @@ end
 
 while true do
 
-    for i = 1, 1.2 do
+    for i = 1, 2 do
         task()
         wait()  
     end
