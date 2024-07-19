@@ -13,7 +13,7 @@ while true do
 
     for i = 1, 2 do
         task()
-        wait()  
+        wait()
     end
     wait(0.845)
 end
