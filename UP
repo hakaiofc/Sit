@@ -17,5 +17,5 @@ while true do
         task()
         wait()
     end
-    wait(0.470)
+    wait(0.5)
 end
